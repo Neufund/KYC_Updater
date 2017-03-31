@@ -1,0 +1,17 @@
+appdirs==1.4.3
+click==6.7
+ethereum-abi-utils==0.4.0
+ethereum-utils==0.2.0
+Flask==0.12
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==1.0
+packaging==16.8
+pylru==1.0.9
+pyparsing==2.2.0
+pysha3==1.0.2
+requests==2.13.0
+rlp==0.4.7
+six==1.10.0
+web3==3.8.0
+Werkzeug==0.12.1
