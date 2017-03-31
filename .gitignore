@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+config.env
+ec512.pub.pem
+ec512.prv.pem
