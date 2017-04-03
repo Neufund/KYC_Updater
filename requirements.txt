@@ -1,5 +1,6 @@
 appdirs==1.4.3
 asn1crypto==0.22.0
+bitcoin==1.1.42
 cffi==1.10.0
 click==6.7
 cryptography==1.8.1
@@ -16,8 +17,10 @@ pylru==1.0.9
 pyOpenSSL==16.2.0
 pyparsing==2.2.0
 pysha3==1.0.2
+pytz==2017.2
 requests==2.13.0
 rlp==0.4.7
+secp256k1==0.13.2
 simple-salesforce==0.72.2
 six==1.10.0
 web3==3.8.0
