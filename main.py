@@ -17,7 +17,7 @@ SF_USERNAME = "remco+salesforce-api@neufund.org"
 
 REQUIRED_ENV_CONFIG_FIELDS = ["SF_PASSWORD", "SF_TOKEN", "PRIVATE_KEY"]
 
-WEB3_ENDPOINT = "http://localhost:8545"
+WEB3_ENDPOINT = os.environ["ENDPOINT_URI"]
 
 CHECK_INTERVAL = 60
 
